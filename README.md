@@ -45,17 +45,6 @@ Tenho experiência com análise, transformação e integração de dados, atuand
 
 ---
 
-## Estatísticas do GitHub
-
-<div>
-  <a href="https://github.com/brunoadonis">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunoadonis&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoadonis&layout=compact&langs_count=8&theme=github_dark"/>
-  </a>
-</div>
-
----
-
 ## Contato
 
 <div> 
